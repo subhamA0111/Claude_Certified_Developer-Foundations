@@ -1,0 +1,5 @@
+Workflow - If code decides teh next step
+Agent - If the model decides the next step 
+
+Building Block for Workflow /Agent:
+The AUgmented LLM: Retrieval -> Tools -> Memory
